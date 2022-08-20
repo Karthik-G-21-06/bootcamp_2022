@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://bi0s.in/branding/bi0s/bios-hardware.png" height="350px" width="600px">
+</div>
+
 # BOOTCAMP - COIMBATORE
 ## DAY 1 - INTRODUCTION
 
